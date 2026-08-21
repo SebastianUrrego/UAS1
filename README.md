@@ -2,7 +2,7 @@
  
 PDF y word sobre sistemas de aeronaves no tripuladas (UAS/drones).
 
-#Solucion de QUIZ1
+# Solucion de QUIZ1
 1. Las RPAS se refiere únicamente al dron, sino a todo el sistema necesario para operar la aeronave.
 2. El RC es cuando se pilota la aeronave mediante señales de radio.
 3. VLOS significa que el piloto remoto puede mantener contacto visual directo con la aeronave, sin depender exclusivamente de cámaras o pantallas.
