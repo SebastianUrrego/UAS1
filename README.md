@@ -3,14 +3,14 @@
 PDF y word sobre sistemas de aeronaves no tripuladas (UAS/drones).
 
 #Solucion de QUIZ1
-1)Las RPAS se refiere únicamente al dron, sino a todo el sistema necesario para operar la aeronave.
-2)El RC es cuando se pilota la aeronave mediante señales de radio.
-3)VLOS significa que el piloto remoto puede mantener contacto visual directo con la aeronave, sin depender exclusivamente de cámaras o pantallas.
-4)EVLOS se refiere a cuando la operacion se extiende a cuando le piloto ve mas alla de lo que puede, pero este sigue manteniendo control mediante observadores.
-5)BVLOS es cuando el dron vuela fuera del alcance visual directo del piloto.
-6)NOTAM se refiere a un aviso que informan a los usuarios del espacio aereo sobre informacion que pueda afectar una practica de vuelo
-7)OACI es la organizacion de aviacion civil internacional.
-8)A,B,C,D,E: Son zonas en donde el espacio aereo es controlado pero algunas son mas restrictivos y con requisitos diferentes.
+1. Las RPAS se refiere únicamente al dron, sino a todo el sistema necesario para operar la aeronave.
+2. El RC es cuando se pilota la aeronave mediante señales de radio.
+3. VLOS significa que el piloto remoto puede mantener contacto visual directo con la aeronave, sin depender exclusivamente de cámaras o pantallas.
+4. EVLOS se refiere a cuando la operacion se extiende a cuando le piloto ve mas alla de lo que puede, pero este sigue manteniendo control mediante observadores.
+5. BVLOS es cuando el dron vuela fuera del alcance visual directo del piloto.
+6. NOTAM se refiere a un aviso que informan a los usuarios del espacio aereo sobre informacion que pueda afectar una practica de vuelo
+7. OACI es la organizacion de aviacion civil internacional.
+8. A,B,C,D,E: Son zonas en donde el espacio aereo es controlado pero algunas son mas restrictivos y con requisitos diferentes.
 
 ## Contenido
  
